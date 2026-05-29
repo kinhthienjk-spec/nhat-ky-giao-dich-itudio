@@ -1,0 +1,6 @@
+{
+  "name": "Luminous Trader",
+  "description": "Ứng dụng nhật ký và phân tích hiệu suất giao dịch tài chính thông minh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
